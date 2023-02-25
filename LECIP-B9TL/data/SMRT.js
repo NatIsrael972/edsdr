@@ -1709,7 +1709,7 @@ EDSData.SMRT = {
                 renderType: "standardService",
                 serviceNumber: "67",
                 destination: {
-                    text: "TAMPINESS via",
+                    text: "TAMPINES via",
                     font: "ArialBold-8"
                 },
                 scrolls: [
